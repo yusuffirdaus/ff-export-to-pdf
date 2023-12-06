@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439742309652",
+    "project_id": "yusuf-ff-crud",
+    "storage_bucket": "yusuf-ff-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439742309652:android:30877a9f02acc382fc4e01",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_l4JWt9PbKjBZRVwhab0Ri8HRbAgfWCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
